@@ -24,5 +24,5 @@ As of now, looking for an paid opportunity where I will be writing and fixing do
 
 My Expertise:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,js,angular,azure,vscode,visualstudio,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,js,jquery,angular,azure,vscode,visualstudio,git,css&theme=dark)](https://skillicons.dev)
 </div>
