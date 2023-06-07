@@ -22,4 +22,7 @@ As of now, looking for an paid opportunity where I will be writing and fixing do
   <br/>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=postmeback&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
 
+My Expertise:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,js,angular,azure,vscode,visualstudio,git&theme=dark)](https://skillicons.dev)
 </div>
