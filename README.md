@@ -10,6 +10,8 @@ DotNet || Azure || TypeScript || JavaScript
 Fixing Documents and learning Rust.
 
 As of now, looking for an paid opportunity where I will be writing and fixing documents.
+
+A little accomplishment:  https://learn.microsoft.com/en-us/aspnet/core/whats-new/dotnet-aspnetcore.docs-mod5?view=aspnetcore-7.0
   
 ---
 ### 🔖 My Stats
