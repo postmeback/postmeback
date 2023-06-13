@@ -5,11 +5,7 @@
 My Name Is Arka Poddar.
 
 Fullstack Developer at EY.<br/>
-DotNet || Azure || TypeScript || JavaScript 
-
-Fixing Documents and learning Rust.
-
-As of now, looking for an paid opportunity where I will be writing and fixing documents.
+C# || Azure || TypeScript || JavaScript || Rust 
 
 A little accomplishment:  https://learn.microsoft.com/en-us/aspnet/core/whats-new/dotnet-aspnetcore.docs-mod5?view=aspnetcore-7.0
   
