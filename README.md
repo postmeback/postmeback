@@ -20,7 +20,7 @@ A little accomplishment:  https://learn.microsoft.com/en-us/aspnet/core/whats-ne
   <br/>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=postmeback&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
 
-My Expertise:
+I scramble around:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,js,jquery,angular,azure,vscode,visualstudio,git,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,js,jquery,angular,azure,vscode,visualstudio,git,css,rust,python&theme=dark)](https://skillicons.dev)
 </div>
