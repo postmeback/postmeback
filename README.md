@@ -12,8 +12,6 @@ A little accomplishment:  https://learn.microsoft.com/en-us/aspnet/core/whats-ne
 ---
 ### 🔖 My Stats
 
-[![](https://komarev.com/ghpvc/?username=postmeback&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=postmeback&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
   <br/>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=postmeback&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
