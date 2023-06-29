@@ -20,5 +20,5 @@ A little accomplishment:  https://learn.microsoft.com/en-us/aspnet/core/whats-ne
 
 I scramble around:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,js,jquery,angular,azure,vscode,visualstudio,git,css,rust,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,js,jquery,angular,azure,rust,python&theme=dark)](https://skillicons.dev)
 </div>
