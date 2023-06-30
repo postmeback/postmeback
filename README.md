@@ -7,9 +7,14 @@ My Name Is Arka Poddar.
 Fullstack Developer<br/>
 C# || Azure || TypeScript || JavaScript || Rust 
 
-A little accomplishment:  https://learn.microsoft.com/en-us/aspnet/core/whats-new/dotnet-aspnetcore.docs-mod5?view=aspnetcore-7.0
-  
+**Got Featured**
+
+  <li><a href = "https://learn.microsoft.com/en-us/aspnet/core/whats-new/dotnet-aspnetcore.docs-mod5?view=aspnetcore-7.0"> Asp.Net Docs</a> </li>
+  <li><a href = "https://pypdf.readthedocs.io/en/latest/meta/CONTRIBUTORS.html"> PyPdf </a></li>
+
+
 ---
+
 ### 🔖 My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=postmeback&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
