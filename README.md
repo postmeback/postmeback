@@ -9,7 +9,8 @@ C# || Azure || TypeScript || JavaScript || Rust
 
 **Got Featured**
 
-  <li><a href = "https://learn.microsoft.com/en-us/aspnet/core/whats-new/dotnet-aspnetcore.docs-mod5?view=aspnetcore-7.0#community-contributors"> Asp.Net Docs</a> </li>
+  <li><a href = "https://learn.microsoft.com/en-us/aspnet/core/whats-new/dotnet-aspnetcore.docs-mod5?view=aspnetcore-7.0#community-contributors"> Asp.Net Docs May Edition</a> </li>
+    <li><a href = "https://learn.microsoft.com/en-us/aspnet/core/whats-new/dotnet-aspnetcore.docs-mod0?view=aspnetcore-7.0#community-contributors"> Asp.Net Docs June Edition</a> </li>
   <li><a href = "https://pypdf.readthedocs.io/en/latest/meta/CONTRIBUTORS.html"> PyPdf </a></li>
 
 
