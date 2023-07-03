@@ -7,7 +7,7 @@ My Name Is Arka Poddar.
 ### Socials
 
 <li><a href="https://www.linkedin.com/in/arka-poddar-software-engineer/">LinkedIn</li>
-
+<br/>
 
 **Got Featured**
 
