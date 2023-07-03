@@ -5,7 +5,7 @@
 My Name Is Arka Poddar.
 
 Fullstack Developer<br/>
-C# || Azure || TypeScript || JavaScript || Rust 
+C# || React || Angular || JavaScript || Rust || Python
 
 **Got Featured**
 
