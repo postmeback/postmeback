@@ -4,8 +4,10 @@
 
 My Name Is Arka Poddar.
 
-Fullstack Developer<br/>
-C# || React || Angular || JavaScript || Rust || Python
+### Socials
+
+<li><a href="https://www.linkedin.com/in/arka-poddar-software-engineer/">LinkedIn</li>
+
 
 **Got Featured**
 
