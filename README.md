@@ -24,7 +24,7 @@ My Name Is Arka Poddar.
   <br/>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=postmeback&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=postmeback&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=postmeback&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 I scramble around:
 
