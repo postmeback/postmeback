@@ -28,5 +28,5 @@ My Name Is Arka Poddar.
 
 I scramble around:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,js,jquery,angular,azure,rust,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,js,jquery,angular,azure,rust,python,solidity&theme=light)](https://skillicons.dev)
 </div>
