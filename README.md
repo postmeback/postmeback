@@ -5,15 +5,6 @@
 My Name Is Arka Poddar.
 <br/>
 
-**Got Featured**
-
-  <li><a href = "https://learn.microsoft.com/en-us/aspnet/core/whats-new/dotnet-aspnetcore.docs-mod5?view=aspnetcore-7.0#community-contributors"> Asp.Net Docs May Edition</a> </li>
-    <li><a href = "https://learn.microsoft.com/en-us/aspnet/core/whats-new/dotnet-aspnetcore.docs-mod0?view=aspnetcore-7.0#community-contributors"> Asp.Net Docs June Edition</a> </li>
-  <li><a href = "https://pypdf.readthedocs.io/en/latest/meta/CONTRIBUTORS.html"> PyPdf </a></li>
-
-
----
-
 ### 🔖 My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=postmeback&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
